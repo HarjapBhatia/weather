@@ -1,7 +1,7 @@
 # 🌤️ Weather App
 A sleek, modern weather application that provides real-time temperature data for any city worldwide. Built with vanilla JavaScript, HTML, and CSS featuring a stunning dark theme with glassmorphism effects.
 
-## Live : https://harjapbhatia.github.io/weather/
+## Live : https://harjapbhatia.github.io/Know-The-Weather/
 
 ## ✨ Features
 - **Real-time Weather Data**: Get current temperature, feels-like temperature, humidity, and weather conditions.
